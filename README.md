@@ -1,8 +1,7 @@
 # Ler inteiros por extenso
 04/04/2022
 
-Programa em C que recebe um variável 'int' e e escreve o valor em extenso.
-Ex.:
+Programa em C que recebe um variável 'int' e e escreve o valor em extenso. Feito para até 4 digítos. Ex.:
 ```
 Valor inserido: 9 --- Saída: nove
 Valor inserido: 12 --- Saída: doze
